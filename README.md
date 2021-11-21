@@ -1,5 +1,5 @@
 
-#Resource Monitoring tool / Task Manager application
+# Resource Monitoring tool / Task Manager application
 
 Tech Stack: Python, C programming , Linux, Software Development, Tkinter
 
